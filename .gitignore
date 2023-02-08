@@ -1,0 +1,7 @@
+.env
+crud_venv/
+static/
+.vscode
+.gitattributes
+__pycache__/
+*.log
